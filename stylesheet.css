@@ -1,10 +1,19 @@
 #id1 {
     color: white;
+   
 }
 .class1 {
     color: white;
 }
 #total {
     background-color: brown;
+    padding: 20px;
+    text-align: center;
     
+}
+.para2 {
+   color:aqua;
+}
+.head2 {
+   color:beige;
 }
